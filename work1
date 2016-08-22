@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> my profile </title>
+	<link rel="stylesheet" type="image/png" href="icon1.png">
+</head>
+<body>
+<center>
+<img src="xyz.jpg" height="200px">
+<br>
+<a href="https://www.facebook.com/fcnew" target="_blank"> link here </a>
+</center>
+<br>
+<ul>
+<h1>*acheivments</h1>
+<h2>1.headboy of my school</h2>
+<h2>2.1st rank in 8th class</h2>
+<h2>3.jee salection</h2>
+<br>
+<h1>*hobbies</h1>
+<h2> i like to read stuff, badmintion is my favourite sport , there many thing that i like , like i love the songs , sufi and solo songs ,i am also  like to play games, also watching news and show like gumrah,dance+,sa re ga ma ga , india's got telant,ted talks, and some animes ! </h2>
+</ul>
+<style>
+body{background-color: lightgreen }
+h1{color: blue}
+</style>
+</body>
